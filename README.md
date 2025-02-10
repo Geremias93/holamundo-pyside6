@@ -22,6 +22,7 @@ Asegúrate de marcar la opción **"Add Python to PATH"** durante la instalación
 ```bash
 sudo apt update
 sudo apt install python3 python3-pip
+```
 
 ## A continuación muestro un codigo de ejemplo
 ```python
